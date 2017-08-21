@@ -1,0 +1,4 @@
+D:\DVILLANUEVA\IntranetNew\IntranetLocal\IntranetLocal\bin\IntranetLocal.dll
+D:\DVILLANUEVA\IntranetNew\IntranetLocal\IntranetLocal\bin\IntranetLocal.pdb
+D:\DVILLANUEVA\IntranetNew\IntranetLocal\IntranetLocal\obj\Debug\IntranetLocal.dll
+D:\DVILLANUEVA\IntranetNew\IntranetLocal\IntranetLocal\obj\Debug\IntranetLocal.pdb
